@@ -9,15 +9,12 @@ actionButtons:
   - text: Command
     link: /guide/introduction
 features:
-  - title: Approachable
-    details: Already know HTML, CSS and JavaScript? Read the guide and start building things in no time!
-  - title: Versatile
-    details: An incrementally adoptable ecosystem that scales between a library and a full-featured framework.
-  - title: Performant
-    details: |
-      20KB min+gzip Runtime<br>
-      Blazing Fast Virtual DOM<br>
-      Minimal Optimization Efforts
+  - title: Easy To Use
+    details: You Can Use This Bot Easily
+  - title: Open Source
+    details: You Can Host Musik Bot In Your Custom Bot
+  - title: Fast Respond
+    details: Start Playing Music Like A Flash
 footer: |
   Made By Bayu With ❤️
 socialIcons:
