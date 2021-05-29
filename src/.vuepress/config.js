@@ -237,8 +237,8 @@ const sidebar = {
 }
 
 module.exports = {
-  title: 'Vue.js',
-  description: 'Vue.js - The Progressive JavaScript Framework',
+  title: 'Musik Bot',
+  description: 'Open Source Discord Music Bot',
   head: [
     [
       'link',
@@ -260,7 +260,7 @@ module.exports = {
       'link',
       {
         rel: 'icon',
-        href: '/logo.png'
+        href: 'https://www.img.bayuu.xyz/images/2021/05/15/discord-avatar-1024.png'
       }
     ],
     ['link', { rel: 'manifest', href: '/manifest.json' }],
@@ -300,7 +300,7 @@ module.exports = {
     ]
   ],
   themeConfig: {
-    logo: '/logo.png',
+    logo: 'https://www.img.bayuu.xyz/images/2021/05/15/discord-avatar-1024.png',
     nav: [
       {
         text: 'Docs',
@@ -469,11 +469,6 @@ module.exports = {
       indexName: 'vuejs-v3',
       appId: 'BH4D9OD16A',
       apiKey: 'bc6e8acb44ed4179c30d0a45d6140d3f'
-    },
-    carbonAds: {
-      carbon: 'CEBDT27Y',
-      custom: 'CKYD62QM',
-      placement: 'vuejsorg'
     }
   },
   plugins: [
