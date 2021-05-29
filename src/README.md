@@ -1,20 +1,13 @@
 ---
 home: true
-heroImage: /logo.png
-heroText: Vue.js
-tagline: The Progressive<br> JavaScript Framework
+heroImage: https://www.img.bayuu.xyz/images/2021/05/15/20210515_215015_0000.png
+heroText: Musik Bot
+tagline: Open Source Discord Music Bot
 actionButtons:
-  - text: Why Vue.js?
+  - text: Guide
     link: /
-    extraClass: vuemastery-trigger primary
-    icon: fa fa-play-circle
-  - text: Get Started
+  - text: Command
     link: /guide/introduction
-  - text: GitHub
-    link: https://github.com/vuejs/vue-next
-    extraClass: github grey
-    icon: fa fa-github
-    target: _blank
 features:
   - title: Approachable
     details: Already know HTML, CSS and JavaScript? Read the guide and start building things in no time!
@@ -26,15 +19,10 @@ features:
       Blazing Fast Virtual DOM<br>
       Minimal Optimization Efforts
 footer: |
-  Released under the <a href="https://opensource.org/licenses/MIT" target="_blank" rel="noopener">MIT License</a><br>
-  Copyright © 2014-2021 Evan You
+  Made By Bayu With ❤️
 socialIcons:
   - type: GitHub
-    link: https://github.com/vuejs/vue-next
+    link: https://github.com/BayuBatam2008
   - type: Twitter
-    link: https://twitter.com/vuejs
-  - type: Medium
-    link: https://medium.com/the-vue-point
+    link: https://twitter.com/bayubatam2008
 ---
-
-<common-vuemastery-video-modal/>
