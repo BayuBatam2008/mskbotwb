@@ -64,11 +64,6 @@ export default {
     Newsletter
   },
 
-  data: () => ({
-    sponsors,
-    sponsorsActive: false
-  }),
-
   computed: {
     data() {
       return this.$page.frontmatter
@@ -90,14 +85,6 @@ export default {
   beforeDestroy() {
     window.removeEventListener('scroll', this.onPageScroll)
   },
-
-  methods: {
-    onPageScroll() {
-      const sponsorTop = this.$refs.sponsors.offsetTop
-
-      this.sponsorsActive = window.pageYOffset > sponsorTop - 100
-    }
-  }
 }
 </script>
 
