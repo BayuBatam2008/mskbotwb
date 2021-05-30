@@ -23,10 +23,3 @@ socialIcons:
   - type: Twitter
     link: https://twitter.com/bayubatam2008
 ---
-# Invite Musik Bot Now!
-
-## Musik Bot
-<a href="https://discordbotlist.com/bots/783114737092657162"><img src="https://discordbotlist.com/api/v1/bots/783114737092657162/widget"></a>
-
-## Musik Bot 2
-<a href="https://discordbotlist.com/bots/801467317908930602"><img src="https://discordbotlist.com/api/v1/bots/801467317908930602/widget"></a>
