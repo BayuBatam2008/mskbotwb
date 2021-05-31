@@ -13,7 +13,6 @@
             {{ editLinkText }}
             <OutboundLink />
           </a>
-         <p></p>
         </span>
         <template v-if="lastUpdated" class="last-updated">
           <br />
