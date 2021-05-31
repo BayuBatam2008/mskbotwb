@@ -1,6 +1,7 @@
 <template>
   <footer class="page-edit">
     <div class="container">
+     <span v-if="editLink" class="edit-link">
          <p></p>
           Caught a mistake or want to contribute to the documentation?
           <p></p>
@@ -12,7 +13,6 @@
             {{ editLinkText }}
             <OutboundLink />
            <p>
-          </a>
         </span>
         <template v-if="lastUpdated" class="last-updated">
           <br />
@@ -117,7 +117,7 @@ export default {
   be changed with the new atomic theme. Changes are welcome!
  */
 .edit-link {
-  margin-bottom: 0.5rem;
+  margin-bottom: 0rem;
 }
 
 .page-edit {
