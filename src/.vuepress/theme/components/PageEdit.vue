@@ -3,7 +3,7 @@
     <div class="container">
         <span v-if="editLink" class="edit-link">
           Caught a mistake or want to contribute to the documentation?
-
+          <p></p>
           <a
             :href="editLink"
             target="_blank"
@@ -12,7 +12,7 @@
             {{ editLinkText }}
             <OutboundLink />
           </a>
-
+         <p></p>
         </span>
         <template v-if="lastUpdated" class="last-updated">
           <br />
