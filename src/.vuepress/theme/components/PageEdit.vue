@@ -1,7 +1,6 @@
 <template>
   <footer class="page-edit">
     <div class="container">
-        <span v-if="editLink" class="edit-link">
          <p></p>
           Caught a mistake or want to contribute to the documentation?
           <p></p>
@@ -11,8 +10,8 @@
             rel="noopener noreferrer"
           >
             {{ editLinkText }}
-             <p>
             <OutboundLink />
+           <p>
           </a>
         </span>
         <template v-if="lastUpdated" class="last-updated">
