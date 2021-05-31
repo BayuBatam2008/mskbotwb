@@ -117,7 +117,7 @@ export default {
   be changed with the new atomic theme. Changes are welcome!
  */
 .edit-link {
-  margin-bottom: 0rem;
+  margin-bottom: 0.5rem;
 }
 
 .page-edit {
