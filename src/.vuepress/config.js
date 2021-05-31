@@ -447,8 +447,8 @@ module.exports = {
         ]
       }
     ],
-    repo: 'vuejs/docs-next',
-    editLinks: false,
+    repo: 'BayuBatam2008/mskbotwb',
+    editLinks: true,
     editLinkText: 'Edit this on GitHub!',
     lastUpdated: 'Last updated',
     docsDir: 'src',
@@ -466,9 +466,9 @@ module.exports = {
     },
     smoothScroll: false,
     algolia: {
-      indexName: 'vuejs-v3',
-      appId: 'BH4D9OD16A',
-      apiKey: 'bc6e8acb44ed4179c30d0a45d6140d3f'
+      indexName: '',
+      appId: '',
+      apiKey: ''
     }
   },
   plugins: [
