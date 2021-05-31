@@ -1,7 +1,6 @@
 <template>
   <footer class="page-edit">
     <div class="container">
-      <p>
         <span v-if="editLink" class="edit-link">
           Caught a mistake or want to contribute to the documentation?
           <a
