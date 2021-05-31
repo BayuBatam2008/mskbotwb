@@ -1,9 +1,11 @@
 <template>
   <footer class="page-edit">
     <div class="container">
-         <p></p>
+      <p>
+        Deployed on
+        <a href="https://url.netlify.com/HJ8X2mxP8">Netlify</a>.
+        <span v-if="editLink" class="edit-link">
           Caught a mistake or want to contribute to the documentation?
-          <p></p>
           <a
             :href="editLink"
             target="_blank"
@@ -11,10 +13,13 @@
           >
             {{ editLinkText }}
             <OutboundLink />
-           <p>
+          </a>
+        </span>
+        <template v-if="lastUpdated" class="last-updated">
           <br />
           <span class="prefix">{{ lastUpdatedText }}:</span>
           <span class="time">{{ lastUpdated }}</span>
+        </template>
       </p>
     </div>
   </footer>
