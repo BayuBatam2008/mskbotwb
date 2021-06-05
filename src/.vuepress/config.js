@@ -260,7 +260,7 @@ module.exports = {
       'link',
       {
         rel: 'icon',
-        href: 'https://www.img.bayuu.xyz/images/2021/06/05/0001-2417475794_20210605_180555_0000.png'
+        href: 'https://www.img.bayuu.xyz/images/2021/06/05/0001-2417996790_20210605_182832_0000.png'
       }
     ],
     ['link', { rel: 'manifest', href: '/manifest.json' }],
@@ -274,14 +274,14 @@ module.exports = {
       'link',
       {
         rel: 'apple-touch-icon',
-        href: 'https://www.img.bayuu.xyz/images/2021/06/05/0001-2417475794_20210605_180555_0000.png'
+        href: 'https://www.img.bayuu.xyz/images/2021/06/05/0001-2417996790_20210605_182832_0000.png'
       }
     ],
     [
       'meta',
       {
         name: 'msapplication-TileImage',
-        content: 'https://www.img.bayuu.xyz/images/2021/06/05/0001-2417475794_20210605_180555_0000.png'
+        content: 'https://www.img.bayuu.xyz/images/2021/06/05/0001-2417996790_20210605_182832_0000.png'
       }
     ],
     ['meta', { name: 'msapplication-TileColor', content: '#000000' }],
@@ -300,7 +300,7 @@ module.exports = {
     ]
   ],
   themeConfig: {
-    logo: 'https://www.img.bayuu.xyz/images/2021/06/05/0001-2417475794_20210605_180555_0000.png',
+    logo: 'https://www.img.bayuu.xyz/images/2021/06/05/0001-2417996790_20210605_182832_0000.png',
     nav: [
       {
         text: 'Docs',
