@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: https://www.img.bayuu.xyz/images/2021/05/15/20210515_215015_0000.png
+heroImage: https://www.img.bayuu.xyz/images/2021/06/05/0001-2417940572_20210605_182620_0000.png
 heroText: Musik Bot
 tagline: Open Source Discord Music Bot
 actionButtons:
