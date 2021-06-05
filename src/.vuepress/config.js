@@ -260,7 +260,7 @@ module.exports = {
       'link',
       {
         rel: 'icon',
-        href: 'https://www.img.bayuu.xyz/images/2021/05/15/discord-avatar-1024.png'
+        href: 'https://www.img.bayuu.xyz/images/2021/06/05/20210605_165047_0000.png'
       }
     ],
     ['link', { rel: 'manifest', href: '/manifest.json' }],
@@ -274,14 +274,14 @@ module.exports = {
       'link',
       {
         rel: 'apple-touch-icon',
-        href: '/images/icons/apple-icon-152x152.png'
+        href: 'https://www.img.bayuu.xyz/images/2021/06/05/20210605_165047_0000.png'
       }
     ],
     [
       'meta',
       {
         name: 'msapplication-TileImage',
-        content: '/images/icons/ms-icon-144x144.png'
+        content: 'https://www.img.bayuu.xyz/images/2021/06/05/20210605_165047_0000.png'
       }
     ],
     ['meta', { name: 'msapplication-TileColor', content: '#000000' }],
@@ -300,7 +300,7 @@ module.exports = {
     ]
   ],
   themeConfig: {
-    logo: 'https://www.img.bayuu.xyz/images/2021/05/15/discord-avatar-1024.png',
+    logo: 'https://www.img.bayuu.xyz/images/2021/06/05/20210605_165047_0000.png',
     nav: [
       {
         text: 'Docs',
