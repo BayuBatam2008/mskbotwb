@@ -4,9 +4,9 @@ heroImage: https://www.img.bayuu.xyz/images/2021/06/05/0001-2417940572_20210605_
 heroText: Musik Bot
 tagline: Open Source Discord Music Bot
 actionButtons:
+  - text: Invite
+    link: https://bayuu.xyz/mb
   - text: Guide
-    link: /
-  - text: Command
     link: /guide/introduction
 features:
   - title: Easy To Use
